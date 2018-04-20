@@ -1,0 +1,10 @@
+#   type    menu/item      		operation/parent  label															command/menu				activation    				install?
+
+##### Stats > Models Fit Menu
+item  statModelsMenu  separator       ""                                      ""                          ""                          ""
+item	statModelsMenu	command			"Optimum Linear Model..."   OptimumLM       	        "activeDataSetP()"      "packageAvailable('OptimClassifier')"
+item	statModelsMenu	command			"Optimum Generalized Linear Model..."   OptimumGLM       	        "activeDataSetP()"      "packageAvailable('OptimClassifier')"
+item	statModelsMenu	command			"Optimum Linear Mixed Model..."   OptimumLMM     	        "activeDataSetP()"      "packageAvailable('OptimClassifier')"
+item	statModelsMenu	command			"Optimum Discriminant Analysis..."   OptimumDA     	        "activeDataSetP()"      "packageAvailable('OptimClassifier')"
+item	statModelsMenu	command			"Optimum Neural Networks..."   OptimumNN     	        "activeDataSetP()"      "packageAvailable('OptimClassifier')"
+item	statModelsMenu	command			"Optimum Support Vector Machines..."   OptimumSVM     	        "activeDataSetP()"      "packageAvailable('OptimClassifier')"
