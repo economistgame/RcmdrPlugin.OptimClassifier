@@ -1,6 +1,6 @@
 # RcmdrPlugin.OptimClassifier
 
-`RcmdrPlugin.OptimClassifier` is a R Commander Plug-In containing multiple methods to create binary classification models provides in `OptimClassifier` package.
+`RcmdrPlugin.OptimClassifier` is an R Commander Plug-In containing multiple methods to create binary classification models provides in `OptimClassifier` package.
 
 Installing the GUI
 ------------------
