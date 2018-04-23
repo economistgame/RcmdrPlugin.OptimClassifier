@@ -1,26 +1,32 @@
 ---
 title: 'RcmdrPlugin.OptimClassifier: Extending the R Commander Interface to create the best train for classification models'
 tags:
-  - R
+  - Classification models
+  - Optimization
+  - Prediction
   - Rcmdr
-  - classification models
-  - GUI
+  - R
 authors:
-  - name: Agustin Perez-Martin
-      orcid: 0000-0003-4994-3176
-      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
-  - name: Agustin Perez-Torregrosa
-       orcid: 0000-0001-5658-4795
-      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
-  - name: Marta Vaca-Lamata
-      orcid: 0000-0001-8496-5579
-      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
-  - name: Antonio Jose Verdu-Jover
-      orcid: 0000-0002-6201-7196
-      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
-date: 21 April 2018
+  - name:  Agustin Perez-Martin
+    orcid: 0000-0003-4994-3176
+    affiliation: 1
+  - name:  Agustin Perez-Torregrosa
+    orcid: 0000-0001-5658-4795
+    affiliation: 1
+  - name:  Marta Vaca-Lamata
+    orcid: 0000-0001-8496-5579
+    affiliation: 1
+  - name:  Antonio Jose Verdu-Jover
+    orcid: 0000-0002-6201-7196
+    affiliation: 1
+affiliations:
+  - name: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
+    index: 1
+date: 23 April 2018
 bibliography: Paper.bib
 ---
+
+
 
 # Summary
 
