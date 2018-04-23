@@ -7,6 +7,10 @@
 #'
 #' @seealso \code{\link[Rcmdr]{linearModel}}, \code{\link[OptimClassifier]{Optim.LM}}
 #'
+#' @examples{
+#' # Examples of use are provided in the help of each option of menu.
+#' }
+#'
 #' @import Rcmdr RcmdrMisc OptimClassifier
 
 

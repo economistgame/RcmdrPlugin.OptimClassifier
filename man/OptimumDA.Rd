@@ -6,6 +6,12 @@
 \description{
 This dialog is used to specify a  discriminant analysis model to be fit by the \link[OptimClassifier]{Optim.DA} function.
 }
+\examples{
+{
+# Examples of use are provided in the help of each option of menu.
+}
+
+}
 \seealso{
 \code{\link[OptimClassifier]{Optim.DA}}
 }

@@ -6,6 +6,12 @@
 \description{
 This dialog is used to specify a  linear model to be fit by the \link[OptimClassifier]{Optim.LM} function.
 }
+\examples{
+{
+# Examples of use are provided in the help of each option of menu.
+}
+
+}
 \seealso{
 \code{\link[Rcmdr]{linearModel}}, \code{\link[OptimClassifier]{Optim.LM}}
 }

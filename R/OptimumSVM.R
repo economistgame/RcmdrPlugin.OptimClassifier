@@ -8,6 +8,12 @@
 #' @seealso \code{\link[OptimClassifier]{Optim.SVM}}
 #'
 #' @import Rcmdr RcmdrMisc
+#'
+#'
+#' @examples{
+#' # Examples of use are provided in the help of each option of menu.
+#' }
+#'
 
 
 

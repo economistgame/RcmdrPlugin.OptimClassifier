@@ -1,5 +1,5 @@
 Package: RcmdrPlugin.OptimClassifier
-Title: Create the Best Train for Classification Models
+Title:  Extending the R Commander Interface to create the best train for Classification Models
 Version: 0.1.2
 Authors@R: c(
     person("Agustin", "Perez-Martin", email = "agustin.perez@umh.es", role = "aut", comment = c(ORCID = "0000-0003-4994-3176")),
@@ -7,7 +7,9 @@ Authors@R: c(
     person("Marta","Vaca-Lamata", email="mvaca@umh.es",role="aut", comment = c(ORCID = "0000-0001-8496-5579")),
     person("Antonio Jose","Verdu-Jover", email="ajverdu@umh.es",role="aut", comment = c(ORCID = "0000-0002-6201-7196"))
     )
-Description: An R Commander "plug-in" providing an interface to OptimClassifier functions. 
+Description: An R Commander "plug-in" providing an interface to OptimClassifier, with dialogs for Linear Models (LM), Generalized Linear Models (GLM), 
+              Linear Mixed Models (LMM), Discriminant Analysis (DA), 
+              Classification And Regression Trees (CART), Neural Networks (NN) and Support Vector Machines (SVM). 
 Depends: R (>= 3.2.3), Rcmdr, RcmdrMisc, OptimClassifier (>= 0.1.4)
 License: GPL-3
 Encoding: UTF-8

@@ -7,6 +7,10 @@
 #'
 #' @seealso \code{\link[Rcmdr]{generalizedLinearModel}}, \code{\link[OptimClassifier]{Optim.GLM}}
 #'
+#'@examples{
+#' # Examples of use are provided in the help of each option of menu.
+#' }
+#'
 #' @import Rcmdr RcmdrMisc
 
 utils::globalVariables(c("helpButton", "OrderRankFrame", "OrderRankVariable",

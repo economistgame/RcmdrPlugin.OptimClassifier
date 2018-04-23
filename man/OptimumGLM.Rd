@@ -6,6 +6,12 @@
 \description{
 This dialog is used to specify a generalized linear model to be fit by the \link[OptimClassifier]{Optim.GLM} function.
 }
+\examples{
+{
+# Examples of use are provided in the help of each option of menu.
+}
+
+}
 \seealso{
 \code{\link[Rcmdr]{generalizedLinearModel}}, \code{\link[OptimClassifier]{Optim.GLM}}
 }

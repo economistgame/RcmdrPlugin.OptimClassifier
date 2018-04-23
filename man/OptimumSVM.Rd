@@ -6,6 +6,12 @@
 \description{
 This dialog is used to specify a support vector machines model to be fit by the \link[OptimClassifier]{Optim.SVM} function.
 }
+\examples{
+{
+# Examples of use are provided in the help of each option of menu.
+}
+
+}
 \seealso{
 \code{\link[OptimClassifier]{Optim.SVM}}
 }
