@@ -2,3 +2,9 @@
 ^\.Rproj\.user$
 ^Rplots.pdf$
 ^cran-comments.md$
+^paper.md$
+^SVMMenu.png$
+^Paper.bib$
+^LICENSE$
+^appveyor\.yml$
+^\.travis\.yml$

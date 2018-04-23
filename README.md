@@ -1,6 +1,9 @@
 # RcmdrPlugin.OptimClassifier
 
-`RcmdrPlugin.OptimClassifier` is an R Commander Plug-In containing multiple methods to create binary classification models provides in `OptimClassifier` package.
+[![Travis-CI Build Status](https://travis-ci.org/economistgame/RcmdrPlugin.OptimClassifier.svg?branch=master)](https://travis-ci.org/economistgame/RcmdrPlugin.OptimClassifier)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/economistgame/RcmdrPlugin.OptimClassifier?branch=master&svg=true)](https://ci.appveyor.com/project/economistgame/RcmdrPlugin.OptimClassifier)
+
+`RcmdrPlugin.OptimClassifier` is an R Commander Plug-In containing a dialogs by multiple methods to create binary classification models provides in `OptimClassifier` package.
 
 Installing the GUI
 ------------------
