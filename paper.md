@@ -35,7 +35,8 @@ The R Commander (``Rcmdr``) package [@Fox:2017] offers a point-and-click graphic
 Nowadays, the  Rcmdr includes facilities for fitting, checking, and displaying several statistical models. This is because its menu and dialog structure were designed to be extensible, extending the Rcmdr became much more convenient with the introduction of the plug-in packages, described in @Fox:2007,  and as we write this, 56 ``Rcmdr`` plug-ins are available on CRAN and 17 ``Rcmdr`` plug-ins are available on Github.
 
 Each of statistical methods has parameters inputs that we can optimize, so that return output will improve respect default options. OptimClassifier package (@Perez:2018, @R:2018) is useful in optimization and  modelling to obtain the best parameters for a classification model.
-The main goal of ``RcmdrPlugin.OptimClassifier`` is providing a point-and-click graphical user interface (GUI) to ``OptimClassifier package``.``RcmdrPlugin.OptimClassifier`` currently already provides a whole toolbox of easy to use training models:
+The main goal of ``RcmdrPlugin.OptimClassifier`` is providing a point-and-click graphical user interface (GUI) to ``OptimClassifier`` package. ``RcmdrPlugin.OptimClassifier`` currently already provides a whole toolbox of easy to use training models:
+
  - Linear Models (LM)
  - Generalized Linear Models (GLM)
  - Linear Mixed Models (LMM)
