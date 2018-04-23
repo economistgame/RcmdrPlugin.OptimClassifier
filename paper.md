@@ -3,24 +3,21 @@ title: 'RcmdrPlugin.OptimClassifier: Extending the R Commander Interface to crea
 tags:
   - R
   - Rcmdr
-  - Optimum models
-
+  - classification models
+  - GUI
 authors:
   - name: Agustin Perez-Martin
       orcid: 0000-0003-4994-3176
-      affiliation: 1
+      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
   - name: Agustin Perez-Torregrosa
        orcid: 0000-0001-5658-4795
-      affiliation: 1
+      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
   - name: Marta Vaca-Lamata
       orcid: 0000-0001-8496-5579
-      affiliation: 1
+      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
   - name: Antonio Jose Verdu-Jover
       orcid: 0000-0002-6201-7196
-      affiliation: 1
-affiliations:
- - name: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
-   index: 1
+      affiliation: Department of Economic and Financial Studies, Miguel Hernández University of Elche, Spain
 date: 21 April 2018
 bibliography: Paper.bib
 ---
