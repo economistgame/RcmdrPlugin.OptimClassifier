@@ -4,8 +4,18 @@ language: R
 os:
 - linux
 - osx
+r:
+- release
+- oldrelease
+- devel
+
 sudo: false
 cache: packages
+addons:
+   apt:
+     packages:
+       - xorg
+       - openbox
 
 r_packages:
   - covr
