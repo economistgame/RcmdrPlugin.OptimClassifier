@@ -6,7 +6,6 @@ os:
 - osx
 r:
 - release
-- oldrelease
 - devel
 
 sudo: false
