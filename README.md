@@ -37,3 +37,8 @@ To launch the GUI, use:
 library(RcmdrPlugin.OptimClassifier)
 ```
 
+
+#Bugs and feature requests
+
+If you find problems with the package, or there's anything that it doesn't do which you think it should, please submit them to https://github.com/economistgame/RcmdrPlugin.OptimClassifier/issues. In particular, let me know about optimizers and formats which you'd like supported, or if you have a workflow which might make sense for inclusion as a default convenience function.
+
